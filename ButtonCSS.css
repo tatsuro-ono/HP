@@ -191,13 +191,13 @@ a.btn-engine-start-in span {
 
 
 
-.btn--orange,
-a.btn--orange {
+.btn-c,
+a.btn-c {
   color: #fff;
   background-color: #eb6100;
 }
 
-a.btn--orange:hover {
+a.btn-c:hover {
   color: #fff;
   background: #f56500;
 }
